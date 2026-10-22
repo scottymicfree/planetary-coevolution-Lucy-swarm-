@@ -1,5 +1,4 @@
-> 🌐 **Fenton Lab official website:** [fentonlabai.pages.dev](https://fentonlabai.pages.dev/)  
-> Planned primary domain: `fentonlabai.com` (custom-domain connection pending).
+> 🌐 **Fenton Lab official website:** [fentonlabai.com](https://fentonlabai.com/)
 
 a sovereign system, "Forbidden Intervention" refers to the logic that triggers an immediate, hard-coded safety stop. This is the Tier-1 Governance Rule that exists outside of Lucy’s control and outside the agent's sandbox. If this code is triggered, the system doesn't "ask" what to do—it executes a full state-freeze.
 This logic should live in your governance_failsafes/tier_1_forbidden_actions/ folder.
